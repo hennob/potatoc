@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyjwt
+python-jose
+ultralytics
+sahi
+opencv-python-headless 
+pillow 
+torch 
+torchvision
